@@ -22,6 +22,8 @@ menuBtn.addEventListener('click', function (e) {
 	document.querySelector('aside').classList.remove('hide-menu');
 	menuShadow.classList.add('active');
 });
+console.log('siema')
+
 
 // const sections =
 // 	//scroll
