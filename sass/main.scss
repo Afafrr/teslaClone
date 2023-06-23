@@ -100,7 +100,7 @@ aside button.close {
 	backdrop-filter: blur(5px);
 	z-index: 5;
 	inset: 1px;
-	transition: background-color 0.5s
+	transition: background-color 0.5s;
 }
 .menu-shadow.active {
 	display: block;
@@ -137,8 +137,10 @@ a.logo img {
 		width: 100vh;
 		font-size: 45px;
 		font-weight: normal;
+		opacity: 1;
 	}
 }
+
 
 .test-drive {
 	text-decoration: underline;

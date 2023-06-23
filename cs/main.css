@@ -143,6 +143,7 @@ a.logo img {
   width: 100vh;
   font-size: 45px;
   font-weight: normal;
+  opacity: 1;
 }
 
 .test-drive {
